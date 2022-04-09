@@ -14,9 +14,6 @@ import numpy as np
 import pandas as pd
 ```
 """
-st.markdown("`import streamlit as st`")
-st.markdown("`import numpy as np`")
-st.markdown("`import pandas as pd`")
 #
 st.markdown("## st.write and st.dataframe")
 # show p tag of strings by st.write
